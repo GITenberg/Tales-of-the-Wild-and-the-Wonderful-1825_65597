@@ -1,11 +1,16 @@
 _repo: Tales-of-the-Wild-and-the-Wonderful-1825_65597
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65597-h/images/cover.jpg
 creator:
   author:
     agent_name: Dods, Mary Diana
     gutenberg_agent_id: '53421'
     url: http://www.gutenberg.org/2009/agents/53421
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65597#Tales-of-the-Wild-and-the-Wonderful-1825
 gutenberg_issued: '2021-06-12'
 gutenberg_type: Text
 identifiers:
